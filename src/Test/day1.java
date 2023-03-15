@@ -11,6 +11,10 @@ public class day1 {
 		System.out.println("Hello TestNG");
 		System.out.println("Hello TestNG");
 		System.out.println("Hello TestNG");
+		System.out.println("Hello TestNG");
+		System.out.println("Hello TestNG");
+		System.out.println("Hello TestNG");
+		System.out.println("Hello TestNG");
 	}
 
 }
