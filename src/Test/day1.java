@@ -7,6 +7,10 @@ public class day1 {
 	@Test
 	public void demo() {
 		System.out.println("Hello TestNG");
+		System.out.println("Hello TestNG");
+		System.out.println("Hello TestNG");
+		System.out.println("Hello TestNG");
+		System.out.println("Hello TestNG");
 	}
 
 }
